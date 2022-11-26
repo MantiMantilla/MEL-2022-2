@@ -1,0 +1,9 @@
+Un integrante de cada grupo debe subir un documento corto con la explicación del proyecto que debe tener al menos la siguiente información:
+
+    1. Título del proyecto
+    2. Integrantes del grupo
+    3. Descripción de los datos a usar y las fuentes de las cuales provienen
+    4. Descripción corta del contexto de interés y las preguntas sobre las cuales se quiere construir evidencia estadística
+    5. Descripción corta de las variables a usar en los modelos
+
+Con esta información se aprobarán las presentaciones de los proyectos. La fecha límite para esta entrega es el viernes 25 de noviembre hasta la media noche.
